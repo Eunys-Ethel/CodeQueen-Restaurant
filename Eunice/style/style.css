@@ -1,0 +1,60 @@
+.side-menu{
+	background-color: cyan;
+	width: 200px;
+	font-size: 36px;
+	height: 700px;
+	float: left;
+	margin-right: 20px;
+}
+.side-menu a:hover{
+	background-color: black;
+	color: orange;
+
+}
+li{
+	text-decoration: none;
+	list-style-type: none;
+	float: left;
+}
+ol{
+	text-decoration: none;
+
+}
+.side-menu a{
+	text-decoration: none;
+	font-style: italic;
+	width: 200px;
+	height: 100px;
+}
+.pom{
+	background-color: grey;
+	width: 150px;
+	height: 150px;
+	margin-left: 260px;
+	align-self: center;
+}
+.pom:hover{
+	background-color: blue;
+	box-shadow: currentColor;
+	transition: 22ms;
+	border-radius: 8px;
+	box-shadow: 8px 5px red;
+}
+.cards{
+	height: 700px;
+	margin-bottom: 10px;
+	
+}
+footer{
+	clear: both;
+}
+body{
+	height: 700px;
+}
+.pom2{
+	width: 150px;
+	height: 150px;
+	margin-left: 520px;
+	align-self: center;
+	margin-top: -670px;
+}
